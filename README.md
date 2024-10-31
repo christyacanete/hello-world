@@ -1,5 +1,5 @@
 HEAD
-# rails-projects
-This repo contains all my projects created using Ruby on Rails.
+# Hello World
+This repo contains all my files for the Hello World project created using Ruby on Rails.
 
 # README
